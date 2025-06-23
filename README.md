@@ -5,9 +5,12 @@ Greetings and welcome! I am a second-year B.Tech student at SRM Institute of Sci
 🎓 About Me
 
 📚 Student: B.Tech CSE with AI/ML Specialization, SRM IST
+
 💻 Languages & Tools:
 Languages: Python, Java, C++
+
 Libraries/Frameworks: PyTorch, NumPy, Pandas
+
 Concepts: Object-Oriented Design and Programming (OODP)
 
 
@@ -34,8 +37,11 @@ Note: Explore my repositories for code and updates!
 🚀 Skills
 
 Machine Learning: Convolutional Neural Networks (CNNs), data preprocessing
+
 Programming: Python scripting, Java/C++ for OODP
+
 Tools: Git, Jupyter Notebooks, basic Linux
+
 Soft Skills: Collaboration, critical thinking
 
 📫 Let's Connect
